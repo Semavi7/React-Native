@@ -1,0 +1,44 @@
+deneme
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    .git_disabled/COMMIT_EDITMSG
+#	deleted:    .git_disabled/HEAD
+#	deleted:    .git_disabled/config
+#	deleted:    .git_disabled/description
+#	deleted:    .git_disabled/hooks/applypatch-msg.sample
+#	deleted:    .git_disabled/hooks/commit-msg.sample
+#	deleted:    .git_disabled/hooks/fsmonitor-watchman.sample
+#	deleted:    .git_disabled/hooks/post-update.sample
+#	deleted:    .git_disabled/hooks/pre-applypatch.sample
+#	deleted:    .git_disabled/hooks/pre-commit.sample
+#	deleted:    .git_disabled/hooks/pre-merge-commit.sample
+#	deleted:    .git_disabled/hooks/pre-push.sample
+#	deleted:    .git_disabled/hooks/pre-rebase.sample
+#	deleted:    .git_disabled/hooks/pre-receive.sample
+#	deleted:    .git_disabled/hooks/prepare-commit-msg.sample
+#	deleted:    .git_disabled/hooks/push-to-checkout.sample
+#	deleted:    .git_disabled/hooks/sendemail-validate.sample
+#	deleted:    .git_disabled/hooks/update.sample
+#	deleted:    .git_disabled/index
+#	deleted:    .git_disabled/info/exclude
+#	deleted:    .git_disabled/logs/HEAD
+#	deleted:    .git_disabled/logs/refs/heads/master
+#	deleted:    .git_disabled/objects/01/093521593cedf79ab05336d2bcef85c5eb0629
+#	deleted:    .git_disabled/objects/03/d6f6b6c6727954aec1d8206222769afd178d8d
+#	deleted:    .git_disabled/objects/09/f879b827723c4435efb850d1508024272bd2fd
+#	deleted:    .git_disabled/objects/0d/16f43f5169631e5106b7ee9f6a9ac927033ecf
+#	deleted:    .git_disabled/objects/1d/6e981ef6c4ea336e6fe8f3fbce9487221a075c
+#	deleted:    .git_disabled/objects/54/bc9c810c6484634e2b2101de330d6e3acc5567
+#	deleted:    .git_disabled/objects/66/6ab2ae9bd742da6f95efffaa581f29969ca651
+#	deleted:    .git_disabled/objects/95/4fc6625f3659cda586d99d146802f86875b450
+#	deleted:    .git_disabled/objects/a0/b1526fc7b78680fd8d733dbc6113e1af695487
+#	deleted:    .git_disabled/objects/a7/77a81eb1f4e852176ab0c410357503ff3e0999
+#	deleted:    .git_disabled/objects/ce/2e3785ddc52731291aece5594c946218353f6c
+#	deleted:    .git_disabled/objects/e7/5f697b1801871ad8cd9309b05e8ffe8c6b6d01
+#	deleted:    .git_disabled/refs/heads/master
+#	modified:   app.json
+#	new file:   eas.json
+#
