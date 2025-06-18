@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Text, TextInput, View, Image, Pressable, TouchableHighlight, Button, KeyboardAvoidingView, Platform } from "react-native"
-import { Textinputcomponent } from ".";
+import Textinputcomponent from "./Textinputcomponent";
 
 export const InputField = ({ navigation, handlesetname, handleName }) => {
     const onpress = () => { console.log("click" + " " + handleName) }
