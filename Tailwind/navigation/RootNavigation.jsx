@@ -4,10 +4,14 @@ import { NavigationContainer } from '@react-navigation/native';
 import AuthStack from './AuthStack';
 import UserStack from './UserStack';
 
-const isAuth = false
+const isAuth = true
+
+
 
 const RootNavigation = () => {
   return (
+
+    
     <NavigationContainer>
         {
             !isAuth ? <AuthStack/> : <UserStack/>
